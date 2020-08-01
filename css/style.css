@@ -1,0 +1,137 @@
+.top-container{
+  background-color:#bbe1fa;
+  padding-top:100px;
+  position:relative;
+
+}
+
+hr{
+  width: 5%;
+  border:dotted;
+  border-color: #206a5d;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-width: thick;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Lora', serif;
+  color:#596e79;
+  background-color: #ffffdd;
+
+}
+.middle-container{
+padding-top:50px;
+
+  margin: 0;
+}
+.bottom-container{
+  background-color: #96bb7c;
+
+  margin: 0;
+}
+h1{margin:0 auto 0 auto;
+  width: 70%;
+  font-family: 'Caveat', cursive;
+  font-size: 5.2rem;
+    color: #4f8a8b;
+    font-weight: bold;
+
+}
+
+h2{
+  font-family: 'Dosis', sans-serif;
+  color: #4f8a8b;
+  font-size: 2rem;
+}
+
+
+h3{
+  font-family: 'Dosis', sans-serif;
+  color: #4f8a8b;
+  font-size: 1.5rem;
+}
+.bottom-cloud{
+  position:absolute;
+  left:150px;
+  bottom:300px;
+
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+
+
+
+
+
+.skill-row{
+   margin: 80px auto;
+
+  width: 80%;
+
+
+
+}
+
+
+.Profile-Pic{
+  width: 20%;
+  height: 20%;
+
+}
+
+
+.Tableau{
+  width: 20%;
+  height:20%;
+
+
+}
+
+.SQL{
+  width: 25%;
+  height:25%;
+
+
+}
+
+
+
+
+.Excel-Advanced{
+  width: 25%;
+  height:25%;
+
+}
+
+.profile{
+  padding-bottom: 30px;
+}
+
+.myButton {
+	background:linear-gradient(to bottom, #206a5d 5%, #206a5d 100%);
+	background-color:#206a5d;
+	border-radius:28px;
+	border:1px solid #206a5d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #206a5d;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #206a5d 5%, #206a5d 100%);
+	background-color:#206a5d;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
